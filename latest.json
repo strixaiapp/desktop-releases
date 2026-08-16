@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "StrixAI 0.1.0.",
-  "pub_date": "2026-08-06T00:03:24.000Z",
+  "version": "0.1.1",
+  "notes": "StrixAI 0.1.1.",
+  "pub_date": "2026-08-16T06:19:28.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFJWYTc1MHNNYXZPamxWdU9NU0RhY1F2UTVOZi83bWZ3L2FPbmVvOVZSczhvZHFOdFRPTEVUUGx0MkZ6QTUrMEdhd0g2WmdyK3ZaR293NHU1OFVCVk1XTlpxOFlPcmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTc0NTczCWZpbGU6c3RyaXguYXBwLnRhci5negpwOUR5bGFPWmtmNS9LOXQ0REI3MllHRUEvUEtKQzEyUkthdm5aZWkwTTVQMXRmekxSUVIveTE2VGR4Y3Z5UUQ4V3E1OVBobnEwUzB6eWdLWFJBalJBQT09Cg==",
-      "url": "https://github.com/strixaiapp/desktop-releases/releases/download/0.1.0/StrixAI.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFJWYTc1MHNNYW5adUNqR2pNRHJWdXpNRjkxUGRFMHZpZTlwNmtNZHVkbmIrV3NiZTFmblhOOUR0QXAxWmMra0JtWXJNT2pGd0pTQWdMY2hzNW12dEZHWmc3TSt6dXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODYxMTM2CWZpbGU6c3RyaXguYXBwLnRhci5negpVRlZucVl2V09kNXAxeU5LVW8zbk9JOTRNbjBNQjRCZmlOVlB1cTJGM24zK1FzbW9DblhlODBWNmpkcXBZc1UyaWhQckd0OWJDdEMvaHlvQ1NwenhBZz09Cg==",
+      "url": "https://github.com/strixaiapp/desktop-releases/releases/download/0.1.1/StrixAI.app.tar.gz"
     }
   }
 }
